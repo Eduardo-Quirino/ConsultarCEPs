@@ -1,3 +1,3 @@
-# ConsultarCEPs
+# Consultar CEPs
 
-  - [Clique aqui para acessar o curso na Udemy](https://www.udemy.com/course/webservice-correios/) 
+  - App criado para consultar cep, usado uma API dos correios para elaboração do projeto.
